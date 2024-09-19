@@ -16,6 +16,6 @@ OBS: o código base foi fornecido pelo professor Ricardo Zago.
 
 Após rodar o código da IDE Remix e aprovar a criação do token na carteira Metamask, ele apareceu conforme abaixo:
 
+![Metamask](https://github.com/leopoldosilvajr/Token-ETH/blob/ab0835d733e2e5d43390273bdce8516a51f731c9/challenge/9%20Token%20sendo%20exibido%20na%20metamask.png)
 
-
-Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui]()
+Para verificar o restante das imagens capturadas durante a realização de desafio segue link a seguir. [Clique aqui](https://github.com/leopoldosilvajr/Token-ETH/tree/main/challenge)
